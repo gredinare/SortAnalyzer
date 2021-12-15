@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O programa recebe diversos algoritmos de ordenação e os compara, utilizando como parâmetro as trocas que são realizadas para fazer a alteração.
+O programa recebe diversos algoritmos de ordenação e os compara, utilizando como parâmetro as trocas que são realizadas para fazer a ordenação.
 
 Projeto feito pra um trabalho da matéria de POTA (Pesquisa ordenação e técnicas de armazenamento)
 
